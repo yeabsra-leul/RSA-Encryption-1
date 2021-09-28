@@ -34,5 +34,13 @@ n = p*q
 r = (p-1)*(q-1)     # Euler's Totient
 publicKey = (e,n)
 
-def modularInverse(a,b):
-    pass
+
+def modularInverse(e,m):
+    for i in range(1,m):
+        if (e*i)%m == 1:
+            return i
+    retun None
+
+
+
+
