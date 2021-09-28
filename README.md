@@ -5,4 +5,4 @@ Addis Ababa Institute of Technology
 
 Discrete Mathematics Assignment
 
-Thiz project is a simplified implementation of the RSA Encryption Algorithm.
+This project is a simplified implementation of the RSA Encryption Algorithm.
